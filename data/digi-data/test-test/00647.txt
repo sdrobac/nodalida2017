@@ -1,0 +1,1 @@
+jestäminen saatettawa riippuwaksi y

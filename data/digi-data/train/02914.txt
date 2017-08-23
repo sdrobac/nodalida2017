@@ -1,0 +1,1 @@
+luokkien opettajatarten 2100 mkaksi;

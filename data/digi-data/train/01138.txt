@@ -1,0 +1,1 @@
+linta 20 p. pieneltä riviltä tekstin edellä ja 1ö p. jälkeen tekstin. aihtoilmoitukaei väli

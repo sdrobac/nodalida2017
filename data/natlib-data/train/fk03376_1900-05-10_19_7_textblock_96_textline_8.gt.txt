@@ -1,0 +1,1 @@
+ja jos toisen kerran on, eroitetaan pois. 

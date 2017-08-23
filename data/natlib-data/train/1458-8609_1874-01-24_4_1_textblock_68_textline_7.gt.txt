@@ -1,0 +1,1 @@
+(celsius eli 100 asteinen termometeri. 

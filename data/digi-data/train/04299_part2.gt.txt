@@ -1,0 +1,1 @@
+koa lukemaan semmoisia kuulutuksia, jotka eiwät
